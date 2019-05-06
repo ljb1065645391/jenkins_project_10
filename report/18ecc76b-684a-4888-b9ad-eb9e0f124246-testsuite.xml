@@ -1,37 +1,37 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557127382105" stop="1557127382115">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557129208357" stop="1557129208367">
   <name>scripts</name>
   <labels/>
   <test-cases>
-    <test-case start="1557127382105" status="passed" stop="1557127382111">
+    <test-case start="1557129208357" status="passed" stop="1557129208362">
       <name>C:\Users\ljb\Desktop\jenkins_project_10\scripts.test_login.TestLogin.test_login1</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="14196-MainThread"/>
+        <label name="thread" value="8860-MainThread"/>
         <label name="host" value="DESKTOP-BUMIROG"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1557127382112" status="passed" stop="1557127382113">
+    <test-case start="1557129208364" status="passed" stop="1557129208365">
       <name>C:\Users\ljb\Desktop\jenkins_project_10\scripts.test_login.TestLogin.test_login2</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="14196-MainThread"/>
+        <label name="thread" value="8860-MainThread"/>
         <label name="host" value="DESKTOP-BUMIROG"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1557127382114" status="passed" stop="1557127382115">
+    <test-case start="1557129208366" status="passed" stop="1557129208367">
       <name>C:\Users\ljb\Desktop\jenkins_project_10\scripts.test_login.TestLogin.test_login3</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="14196-MainThread"/>
+        <label name="thread" value="8860-MainThread"/>
         <label name="host" value="DESKTOP-BUMIROG"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>

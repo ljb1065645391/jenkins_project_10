@@ -1,12 +1,12 @@
 {
-  "uid" : "359f70fe46d36b51",
-  "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
-  "fullName" : "scripts.C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
-  "historyId" : "fff535e7196f2d5f96ec71029cd71dbe",
+  "uid" : "80d65303762f18e4",
+  "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+  "fullName" : "scripts.C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+  "historyId" : "2ac0fb56a035b2d1df2d6b46c8442f30",
   "time" : {
-    "start" : 1557127382105,
-    "stop" : 1557127382111,
-    "duration" : 6
+    "start" : 1557129154192,
+    "stop" : 1557129154193,
+    "duration" : 1
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -28,7 +28,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "14196-MainThread"
+    "value" : "10704-MainThread"
   }, {
     "name" : "suite",
     "value" : "scripts"
@@ -37,7 +37,7 @@
     "value" : "scripts"
   }, {
     "name" : "testMethod",
-    "value" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1"
+    "value" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2"
   }, {
     "name" : "package",
     "value" : "scripts"
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "359f70fe46d36b51.json",
+  "source" : "80d65303762f18e4.json",
   "parameterValues" : [ ]
 }
