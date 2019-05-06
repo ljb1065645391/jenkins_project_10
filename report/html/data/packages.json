@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
+      "uid" : "6e155445332afe",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1557113363006,
+        "stop" : 1557113363021,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+      "uid" : "c4c2c68289edc8b0",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1557113363021,
+        "stop" : 1557113363053,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login3",
+      "uid" : "d884e2cc9cfc1613",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1557113363053,
+        "stop" : 1557113363068,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

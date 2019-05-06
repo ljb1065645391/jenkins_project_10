@@ -1,0 +1,66 @@
+{
+  "uid" : "c4c2c68289edc8b0",
+  "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+  "fullName" : "scripts.C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+  "historyId" : "2ac0fb56a035b2d1df2d6b46c8442f30",
+  "time" : {
+    "start" : 1557113363021,
+    "stop" : 1557113363053,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x00000176D6050160>\n\n    def test_login2(self):\n        print(\"test_login2\")\n>       assert 0\nE       assert 0\n\nscripts\\test_login.py:9: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BUMIROG"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "1360-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c4c2c68289edc8b0.json",
+  "parameterValues" : [ ]
+}

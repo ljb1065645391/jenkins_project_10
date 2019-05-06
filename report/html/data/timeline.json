@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-BUMIROG",
+    "children" : [ {
+      "name" : "1360-MainThread",
+      "children" : [ {
+        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+        "uid" : "c4c2c68289edc8b0",
+        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1557113363021,
+          "stop" : 1557113363053,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login3",
+        "uid" : "d884e2cc9cfc1613",
+        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557113363053,
+          "stop" : 1557113363068,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
+        "uid" : "6e155445332afe",
+        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557113363006,
+          "stop" : 1557113363021,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56102d55fd1210eca3f3b28702a152da"
+    } ],
+    "uid" : "9088e118af5bbccdd659947d09926ef9"
+  } ]
+}
