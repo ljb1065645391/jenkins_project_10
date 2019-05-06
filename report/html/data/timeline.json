@@ -4,45 +4,45 @@
   "children" : [ {
     "name" : "DESKTOP-BUMIROG",
     "children" : [ {
-      "name" : "1360-MainThread",
+      "name" : "14196-MainThread",
       "children" : [ {
-        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
-        "uid" : "c4c2c68289edc8b0",
-        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
-        "status" : "failed",
+        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
+        "uid" : "359f70fe46d36b51",
+        "parentUid" : "0c46897f0a095f4b33da554c01e1ecad",
+        "status" : "passed",
         "time" : {
-          "start" : 1557113363021,
-          "stop" : 1557113363053,
-          "duration" : 32
+          "start" : 1557127382105,
+          "stop" : 1557127382111,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
+        "uid" : "a6f8a9933d83714",
+        "parentUid" : "0c46897f0a095f4b33da554c01e1ecad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557127382112,
+          "stop" : 1557127382113,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login3",
-        "uid" : "d884e2cc9cfc1613",
-        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
+        "uid" : "3901ab884204b17e",
+        "parentUid" : "0c46897f0a095f4b33da554c01e1ecad",
         "status" : "passed",
         "time" : {
-          "start" : 1557113363053,
-          "stop" : 1557113363068,
-          "duration" : 15
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "C:\\Users\\ljb\\Desktop\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
-        "uid" : "6e155445332afe",
-        "parentUid" : "56102d55fd1210eca3f3b28702a152da",
-        "status" : "passed",
-        "time" : {
-          "start" : 1557113363006,
-          "stop" : 1557113363021,
-          "duration" : 15
+          "start" : 1557127382114,
+          "stop" : 1557127382115,
+          "duration" : 1
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "56102d55fd1210eca3f3b28702a152da"
+      "uid" : "0c46897f0a095f4b33da554c01e1ecad"
     } ],
     "uid" : "9088e118af5bbccdd659947d09926ef9"
   } ]
